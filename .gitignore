@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/build/
+/buildSrc/.gradle/
+/buildSrc/build/
+/buildSrc/build/classes/kotlin/main/
+/bungee/build/
+/bungee/build/classes/kotlin/main/
+/bungee/gradle/
+/core/build/
+/core/build/classes/kotlin/main/
+/core/gradle/
+/spigot/.gradle/
+/spigot/build/
+/spigot/build/classes/kotlin/main/
+/spigot/gradle/
+/velocity/build/
+/velocity/build/classes/kotlin/main/
+/velocity/gradle/

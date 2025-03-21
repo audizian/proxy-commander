@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bungee/ProxyCommander.bungee.iml" filepath="$PROJECT_DIR$/.idea/modules/bungee/ProxyCommander.bungee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bungee/ProxyCommander.bungee.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bungee/ProxyCommander.bungee.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/ProxyCommander.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/ProxyCommander.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spigot/ProxyCommander.spigot.iml" filepath="$PROJECT_DIR$/.idea/modules/spigot/ProxyCommander.spigot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spigot/ProxyCommander.spigot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spigot/ProxyCommander.spigot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/velocity/ProxyCommander.velocity.iml" filepath="$PROJECT_DIR$/.idea/modules/velocity/ProxyCommander.velocity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/velocity/ProxyCommander.velocity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/velocity/ProxyCommander.velocity.main.iml" />
+    </modules>
+  </component>
+</project>

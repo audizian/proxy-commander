@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="proxy-command-plugin" target="21" />
+      <module name="proxy-command-plugin.buildSrc" target="21" />
+      <module name="proxy-command-plugin.buildSrc.main" target="21" />
+      <module name="proxy-command-plugin.buildSrc.test" target="21" />
+      <module name="proxy-command-plugin.bungee" target="21" />
+      <module name="proxy-command-plugin.bungee.main" target="21" />
+      <module name="proxy-command-plugin.bungee.test" target="21" />
+      <module name="proxy-command-plugin.core" target="21" />
+      <module name="proxy-command-plugin.core.main" target="21" />
+      <module name="proxy-command-plugin.core.test" target="21" />
+      <module name="proxy-command-plugin.main" target="21" />
+      <module name="proxy-command-plugin.spigot" target="21" />
+      <module name="proxy-command-plugin.spigot.main" target="21" />
+      <module name="proxy-command-plugin.spigot.test" target="21" />
+      <module name="proxy-command-plugin.test" target="21" />
+      <module name="proxy-command-plugin.velocity" target="21" />
+      <module name="proxy-command-plugin.velocity.main" target="21" />
+      <module name="proxy-command-plugin.velocity.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

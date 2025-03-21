@@ -1,0 +1,20 @@
+[versions]
+minecraft = "1.21-R0.1-SNAPSHOT"
+kotlin = "2.1.20-RC"
+kotlinx = "1.10.1"
+
+[plugins]
+kotlin = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+shadow = { id = "com.gradleup.shadow", version = "8.3.3" }
+pluginyml = { id = "net.minecrell.plugin-yml.bukkit", version = "0.6.0" }
+bungeeyml = { id = "net.minecrell.plugin-yml.bungee", version = "0.6.0" }
+
+[libraries]
+kotlin = { module = "org.jetbrains.kotlin:kotlin-stdlib", version.ref = "kotlin" }
+kotlin-coroutines-jvm = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm", version.ref = "kotlinx" }
+textcolorutil = { module = "dev.idot:mc-text-color-util", version = "0.4" }
+
+#spigot = { module = "org.spigotmc:spigot-api", version.ref = "minecraft" }
+spigot = { module = "org.spigotmc:spigot-api", version = "1.8.8-R0.1-SNAPSHOT" }
+bungeecord = { module = "net.md-5:bungeecord-api", version = "1.21+" }
+velocity = { module = "com.velocitypowered:velocity-api", version = "3.4.0-SNAPSHOT" }
